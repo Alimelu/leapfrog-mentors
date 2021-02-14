@@ -1,1 +1,1 @@
-# leapfrog-mentorss
+# leapfrog-mentors
